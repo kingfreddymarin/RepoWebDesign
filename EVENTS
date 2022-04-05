@@ -1,0 +1,11 @@
+//EVENTS EJERCICIO 1
+//The <button> element should do something when someone clicks on it. Try to fix it!
+    <button onclick="alert('Hello')">Click me.</button>
+
+//EVENTS EJERCICIO 2
+//Cuando se hace clic en el botón, se debe ejecutar la función "myFunction".
+    <button onclick="myFunction()">Click me.</button>
+
+//EVENTS EJERCICIO 3
+//The <div> element should turn red when someone moves the mouse over it.
+   <div onmouseover="this.style.backgroundColor='red'">myDIV.</div>
